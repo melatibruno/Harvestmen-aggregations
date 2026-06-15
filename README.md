@@ -13,7 +13,7 @@ Species <- Species identity;
 
 Color <- Species phenotype (CRY = cryptic, APO = conspicuous/aposematic);
 
-nickname_species <- Species color phenotype used for visual classification;
+nickname_species <- Species dorsal coloration pattern used for visual classification;
 
 Group_size <- Number of recorded individuals in the aggregation;
 
