@@ -2,7 +2,7 @@
 Data and analysis scripts supporting the manuscript "Cryptic and conspicuous species segregate in mixed-species aggregations of a Neotropical arachnid". 
 
 The raw data  used in this study are available in data.xlsx. The data are composed by the colluns:
-Site <- Sampling site;//
+Site <- Sampling site;
 Site2 <- Not used;
 Day <- Sampling day;
 Species <- Species identity;
