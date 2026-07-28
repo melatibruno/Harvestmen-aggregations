@@ -21,4 +21,4 @@ Solo_pair_group <- Categorical size of aggregation (Solo = one recorded individu
 
 Species_composition <- Aggregation type (MSA = mixed species aggregation, SSA = same species aggregation).
 
-R scripts used in this study are available in 251123_nullmodels.R. Script used to perform all null model analyses, calculate aggregation and individual-level metrics, estimate transition matrices, and compute p-values for temporal and site-fixed null models.
+R scripts used in this study are available in membership_null_model and aggregation_null_model. Scripts used to perform all null model analyses, calculate aggregation and individual-level metrics, estimate transition matrices, and compute p-values for temporal and site-fixed null models for membership and aggregations tests.
